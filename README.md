@@ -1,1 +1,1 @@
-# Text editor distributed as Free Ingria 
+# Text editor, distributed freely as Free Ingria – where freedom has no price.
